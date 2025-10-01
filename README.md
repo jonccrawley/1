@@ -44,9 +44,3 @@ The fix involves implementing a proper caching strategy such as:
 
 ## Time Expectation
 This challenge should take approximately 30-45 minutes to complete.
-
-## Submission
-Once you've fixed the bug:
-1. Ensure all tests pass with `npm test`
-2. Explain your solution and why it works
-3. Discuss any alternative approaches you considered
