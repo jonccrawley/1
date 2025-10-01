@@ -41,6 +41,3 @@ The fix involves implementing a proper caching strategy such as:
 - Using a lock/mutex pattern
 - Implementing a "computation in progress" flag
 - Using a promise-based cache to handle concurrent requests
-
-## Time Expectation
-This challenge should take approximately 30-45 minutes to complete.
